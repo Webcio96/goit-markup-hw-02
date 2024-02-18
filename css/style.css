@@ -32,12 +32,13 @@ a {
 .contact:focus {
   color: #404bbf;
 }
-
+.address {
+  font-style: normal;
+}
 .contact {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-  font-style: normal;
 }
 .banner {
   background-color: #2e2f42;
