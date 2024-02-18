@@ -11,13 +11,13 @@ a {
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
-  text-transform: uppercase;
   letter-spacing: 0.03em;
-  color: #2e2f42;
+  text-transform: uppercase;
+  color: #4d5ae5;
   text-decoration: none;
 }
-.web {
-  color: #4d5ae5;
+.studio {
+  color: #2e2f42;
 }
 .main-links {
   font-weight: 500;
