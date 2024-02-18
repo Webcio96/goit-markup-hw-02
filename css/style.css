@@ -25,13 +25,13 @@ a {
   letter-spacing: 0.02em;
   text-decoration: none;
 }
-.main-links a:hover,
-.main-links a:focus,
+.main-links:hover,
+.main-links:focus,
 .contact:hover,
 .contact:focus {
   color: #404bbf;
 }
-.main-links a {
+.main-links {
   color: #2e2f42;
 }
 .contact {
