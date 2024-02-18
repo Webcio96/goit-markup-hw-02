@@ -60,6 +60,10 @@ a {
   color: #ffffff;
   cursor: pointer;
 }
+.service-button:hover,
+.service-button:focus {
+  background-color: #404bbf;
+}
 .temporary {
   font-size: 36px;
   line-height: 1.11;
